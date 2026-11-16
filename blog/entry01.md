@@ -11,7 +11,9 @@ This process was really strenous for GoDot required a really specific version wh
 ![alt text](<Screenshot 2026-11-16 at 2.30.54 AM-2.png >) 
 ![alt text](<Screenshot 2026-11-16 at 2.45.28 AM.png>)
 ![alt text](<Screenshot 2026-11-16 at 2.45.49 AM.png>)
+<br>
 I then add pocketbase which was the same process all over again but unlike godot when creating the new file on github desktop the ``Git_ignore`` option didn't present itself specifically for Pocketbase but did for GoDot. 
+<br>
 ![alt text](<Screenshot 2026-11-16 at 2.47.09 AM.png>)
 
 # Skills
